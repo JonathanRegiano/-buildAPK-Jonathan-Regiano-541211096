@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "xiirpl3-541211096-jonathan-regiano-login",
+    "slug": "snack-2cf23ae1-ec50-4efc-8293-fa0049cd8ced",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "48519169-ae7b-4a2c-bb9c-b2cc90b0e7a2"
+      }
+    }
+  }
+}
