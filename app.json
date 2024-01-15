@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jonathan_24.snack2cf23ae1ec504efc8293fa0049cd8ced"
     },
     "web": {
       "favicon": "./assets/favicon.png"
